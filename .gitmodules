@@ -1,0 +1,6 @@
+[submodule "joylive-agent"]
+	path = joylive-agent
+	url = https://github.com/jd-opensource/joylive-agent
+[submodule "joylive-injector"]
+	path = joylive-injector
+	url = https://github.com/jd-opensource/joylive-injector
